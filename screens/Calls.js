@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 const CallsScreen = () => {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-      <Text>Calls Screen</Text>
+      <Text>Call Screen</Text>
     </View>
   );
 };
